@@ -24,7 +24,11 @@ What are the differences between Azure AI Service and Azure Foundry
     - Azure AI Vision
     - Azure AI Speech
     - Azure AI Language
-    - 1  
+    - Azure AI Foundry Content Safety
+    - Azure AI Translator
+    - Azure AI Face
+    - Azure AI Document Intelligence
+    - Azure AI Content Understanding
   - allows
     - Project Organization
     - Resource Management
