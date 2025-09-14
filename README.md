@@ -17,9 +17,14 @@ What are the differences between Azure AI Service and Azure Foundry
     - Azure AI Custom Vision
     - Azure AI Document Intelligence
     - Azure AI Content Understanding
-    - Azure AI search
+    - Azure AI Search
 - Azure AI Foundry is
   - an Azure resource and a platform that allows you to create simple chat app that uses a generative AI model
+    - Azure OpenAI
+    - Azure AI Vision
+    - Azure AI Speech
+    - Azure AI Language
+    - 1  
   - allows
     - Project Organization
     - Resource Management
