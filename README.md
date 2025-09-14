@@ -28,3 +28,4 @@ What are the differences between Azure AI Service and Azure Foundry
     - Centralize Cost Management
   - enables you to connect to resources in a project via Azure AI Foundry SDK
 
+In most medium to large-scale development scenarios it's better to provision Azure AI services resources as part of an Azure AI Foundry project - enabling you to centralize control and cost management, and making it easier to manage shared resources and build the next generation of generative AI apps and agents.
