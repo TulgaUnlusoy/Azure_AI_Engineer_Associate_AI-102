@@ -38,3 +38,10 @@ What are the differences between Azure AI Service and Azure Foundry
   - enables you to connect to resources in a project via Azure AI Foundry SDK
 
 In most medium to large-scale development scenarios it's better to provision Azure AI services resources as part of an Azure AI Foundry project - enabling you to centralize control and cost management, and making it easier to manage shared resources and build the next generation of generative AI apps and agents.
+
+## 2. Choose and Deploy Models from the Model Catalog in Azure AI Foundry portal
+AI Model Catalogs
+- Hugging Face (https://huggingface.co/models)
+- GitHub (https://github.com/marketplace/models-github)
+- Azure AI Foundry (https://ai.azure.com/explore/models)
+
