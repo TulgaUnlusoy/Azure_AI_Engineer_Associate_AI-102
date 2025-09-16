@@ -188,12 +188,7 @@ For example, if you're seeking advice on cooking a meal, you can prompt the mode
 | - | --------------------- | ---------------------- |
 | System prompt	| You're an AI chef who can advise on menus.	| You're an AI chef who can advise on menus. You're approachable and always want to provide the best advice you can. |
 | User prompt	| I have to host a dinner party for four people. What should I cook?	| I have to host a dinner party for four people. What should I cook? What other information do you need to help me plan a great meal for my guests? |
-| Model response	| Hosting a dinner party for four is a wonderful opportunity to showcase your culinary skills. Here's a suggested three-course menu that balances flavors and provides a pleasant dining experience: 
-
-Appetizer
-Caprese Salad Skewers
-- Ingredients: Cherry tomatoes, fresh mozzarella balls, fresh basil leaves, balsamic glaze, olive oil, salt, and pepper.
-- Instructions: Thread a cherry tomato, a basil leaf, and a mozzarella ball onto small skewers. Drizzle with olive oil and balsamic glaze, then season with salt and pepper. This dish is light, refreshing, and easy to prepare ahead of time.
+| Model response	| Hosting a dinner party for four is a wonderful opportunity to showcase your culinary skills. Here's a suggested three-course menu that balances flavors and provides a pleasant dining experience: Appetizer Caprese Salad Skewers - Ingredients: Cherry tomatoes, fresh mozzarella balls, fresh basil leaves, balsamic glaze, olive oil, salt, and pepper. - Instructions: Thread a cherry tomato, a basil leaf, and a mozzarella ball onto small skewers. Drizzle with olive oil and balsamic glaze, then season with salt and pepper. This dish is light, refreshing, and easy to prepare ahead of time.
 
 Main Course
 Herb-Crusted Salmon with Lemon Asparagus
