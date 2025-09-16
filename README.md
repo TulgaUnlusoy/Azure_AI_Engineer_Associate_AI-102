@@ -132,3 +132,22 @@ Considerations for scaling a generative AI solution include:
 - Model lifecycle: How will you manage model, data, and code updates as part of an ongoing Generative AI Operations (GenAIOps) lifecycle?
 
 Azure AI Foundry provides visual and code-first tools that can help you build and maintain a scalable generative AI solution.
+
+### Deploy a Language Model with Azure AI Foundry
+
+Deploy options include:
+
+- Standard deployment: Models are hosted in the Azure AI Foundry project resource.
+- Serverless compute: Models are hosted in Microsoft-managed dedicated serverless endpoints in an Azure AI Foundry hub project.
+- Managed compute: Models are hosted in managed virtual machine images in an Azure AI Foundry hub project.
+
+The associated cost depends on the type of model you deploy, which deployment option you choose, and what you are doing with the model:
+
+|                   | Standard deployment	| Serverless compute	| Managed compute |
+| ----------------- | ------------------- | ------------------  | --------------- |
+| Supported models	| Azure AI Foundry models (including Azure OpenAI models and Models-as-a-service models)	| Foundry Models with pay-as-you-go billing	| Open and custom models |
+| Hosting service	  | Azure AI Foundry resource	| AI Project resource in a hub	| AI Project resource in a hub |
+| Billing basis	    | Token-based billing	| Token-based billing	| Compute-based billing |
+
+## 3. Optimize Model Performance
+
