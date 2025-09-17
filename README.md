@@ -188,104 +188,39 @@ For example, if you're seeking advice on cooking a meal, you can prompt the mode
 | - | --------------------- | ---------------------- |
 | System prompt	| You're an AI chef who can advise on menus.	| You're an AI chef who can advise on menus. You're approachable and always want to provide the best advice you can. |
 | User prompt	| I have to host a dinner party for four people. What should I cook?	| I have to host a dinner party for four people. What should I cook? What other information do you need to help me plan a great meal for my guests? |
-| Model response	| Hosting a dinner party for four is a wonderful opportunity to showcase your culinary skills. Here's a suggested three-course menu that balances flavors and provides a pleasant dining experience: Appetizer Caprese Salad Skewers - Ingredients: Cherry tomatoes, fresh mozzarella balls, fresh basil leaves, balsamic glaze, olive oil, salt, and pepper. - Instructions: Thread a cherry tomato, a basil leaf, and a mozzarella ball onto small skewers. Drizzle with olive oil and balsamic glaze, then season with salt and pepper. This dish is light, refreshing, and easy to prepare ahead of time.
-
-Main Course
-Herb-Crusted Salmon with Lemon Asparagus
-- Ingredients: Salmon fillets, fresh herbs (such as parsley, dill, and thyme), breadcrumbs, lemon, asparagus, olive oil, salt, and pepper.
-- Instructions: Preheat your oven to 400°F (200°C). Mix breadcrumbs with chopped fresh herbs and a bit of olive oil to form a paste. Press this mixture onto the salmon fillets and season with salt and pepper. Place salmon on a baking sheet and bake for about 15-20 minutes, or until cooked through. In the last 10 minutes of cooking, toss asparagus with olive oil, lemon zest, salt, and pepper, and roast alongside the salmon. Serve with a squeeze of fresh lemon juice over the salmon and asparagus.
-
-Dessert
-Chocolate Mousse with Fresh Berries
--Ingredients: Dark chocolate, eggs, sugar, heavy cream, vanilla extract, and mixed berries (such as strawberries, blueberries, and raspberries).
-- Instructions: Melt the chocolate over a double boiler, then let it cool slightly. Separate egg yolks and whites. Whip the egg whites to soft peaks, then gradually add sugar to make a meringue. Whip the heavy cream until soft peaks form and mix in vanilla extract. Fold the melted chocolate into the egg yolks, then gently fold in the whipped cream and meringue until combined. Spoon the mousse into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries for a burst of color and freshness.
-
-Additional Tips
-- Pairings: Consider serving a light white wine with the appetizer and main course, and perhaps a dessert wine with the chocolate mousse.
-- Timing: Prepare the appetizer and dessert in advance to minimize last-minute stress. The main course will take the most time in the oven, so plan accordingly.
-
-This menu is designed to be elegant yet approachable, ensuring your guests enjoy both the food and the experience. Enjoy your dinner party!	| Hosting a dinner party is a wonderful opportunity to showcase your culinary skills and create memorable experiences for your guests. To help you plan a great meal, here are a few questions that can guide you in choosing the perfect menu:
-
-Dietary Preferences/Restrictions: Are any of your guests vegetarian, vegan, gluten-free, or have any food allergies or intolerances? Knowing this will help in selecting dishes that everyone can enjoy.
-Flavor Preferences: Do your guests have any favorite cuisines or flavors? For example, do they enjoy Italian, Mexican, Mediterranean, or perhaps something more adventurous like Thai or Indian?
-Time and Skill Level: How much time do you have to prepare the meal, and what is your comfort level in the kitchen? Are you looking for a simple meal or are you up for something more elaborate?
-Occasion: Is this a casual get-together, a celebration, or something more formal? The nature of the event might influence the menu style.
-Seasonal Ingredients: Are you interested in using seasonal ingredients? This can help in choosing fresh and flavorful produce.
-Drinks Pairing: Would you like to include alcoholic or non-alcoholic beverages to pair with the meal?
-
-With this information, I can suggest a tailored menu. Here’s a general idea that can be adapted based on your answers:
-
-Starter
-Garden Salad with Citrus Vinaigrette: Fresh greens, seasonal vegetables, and a light citrus dressing.
-Stuffed Mushrooms: For a vegetarian option, filled with herbs and cheese.
-
-Main Course
-Herb-Crusted Chicken Breast: Served with roasted vegetables.
-Quinoa Stuffed Bell Peppers: A flavorful vegetarian or vegan option.
-
-Side Dishes
-Garlic Butter Roasted Potatoes: Classic and comforting.
-Steamed Green Beans with Almonds: A simple, healthy side.
-
-Dessert
-Chocolate Lava Cake: A decadent treat to end the meal.
-Fruit Tart: A lighter, refreshing option.
-
-Drinks
-Wine Pairing: A versatile white wine like Sauvignon Blanc or a light red like Pinot Noir.
-Mocktail Option: A refreshing citrus mocktail or sparkling water with herbs.
-
-
-Feel free to share more details, and I can help refine the menu further! |
+| Model response	| Hosting a dinner party for four is a wonderful opportunity to showcase your culinary skills. Here's a suggested three-course menu that balances flavors and provides a pleasant dining experience: Appetizer Caprese Salad Skewers - Ingredients: Cherry tomatoes, fresh mozzarella balls, fresh basil leaves, balsamic glaze, olive oil, salt, and pepper. - Instructions: Thread a cherry tomato, a basil leaf, and a mozzarella ball onto small skewers. Drizzle with olive oil and balsamic glaze, then season with salt and pepper. This dish is light, refreshing, and easy to prepare ahead of time. Main Course Herb-Crusted Salmon with Lemon Asparagus - Ingredients: Salmon fillets, fresh herbs (such as parsley, dill, and thyme), breadcrumbs, lemon, asparagus, olive oil, salt, and pepper. - Instructions: Preheat your oven to 400°F (200°C). Mix breadcrumbs with chopped fresh herbs and a bit of olive oil to form a paste. Press this mixture onto the salmon fillets and season with salt and pepper. Place salmon on a baking sheet and bake for about 15-20 minutes, or until cooked through. In the last 10 minutes of cooking, toss asparagus with olive oil, lemon zest, salt, and pepper, and roast alongside the salmon. Serve with a squeeze of fresh lemon juice over the salmon and asparagus. Dessert Chocolate Mousse with Fresh Berries -Ingredients: Dark chocolate, eggs, sugar, heavy cream, vanilla extract, and mixed berries (such as strawberries, blueberries, and raspberries). - Instructions: Melt the chocolate over a double boiler, then let it cool slightly. Separate egg yolks and whites. Whip the egg whites to soft peaks, then gradually add sugar to make a meringue. Whip the heavy cream until soft peaks form and mix in vanilla extract. Fold the melted chocolate into the egg yolks, then gently fold in the whipped cream and meringue until combined. Spoon the mousse into serving dishes and refrigerate for at least 2 hours. Serve topped with fresh berries for a burst of color and freshness. Additional Tips - Pairings: Consider serving a light white wine with the appetizer and main course, and perhaps a dessert wine with the chocolate mousse. - Timing: Prepare the appetizer and dessert in advance to minimize last-minute stress. The main course will take the most time in the oven, so plan accordingly. This menu is designed to be elegant yet approachable, ensuring your guests enjoy both the food and the experience. Enjoy your dinner party!	| Hosting a dinner party is a wonderful opportunity to showcase your culinary skills and create memorable experiences for your guests. To help you plan a great meal, here are a few questions that can guide you in choosing the perfect menu: Dietary Preferences/Restrictions: Are any of your guests vegetarian, vegan, gluten-free, or have any food allergies or intolerances? Knowing this will help in selecting dishes that everyone can enjoy. Flavor Preferences: Do your guests have any favorite cuisines or flavors? For example, do they enjoy Italian, Mexican, Mediterranean, or perhaps something more adventurous like Thai or Indian? Time and Skill Level: How much time do you have to prepare the meal, and what is your comfort level in the kitchen? Are you looking for a simple meal or are you up for something more elaborate? Occasion: Is this a casual get-together, a celebration, or something more formal? The nature of the event might influence the menu style. Seasonal Ingredients: Are you interested in using seasonal ingredients? This can help in choosing fresh and flavorful produce. Drinks Pairing: Would you like to include alcoholic or non-alcoholic beverages to pair with the meal? With this information, I can suggest a tailored menu. Here’s a general idea that can be adapted based on your answers: Starter Garden Salad with Citrus Vinaigrette: Fresh greens, seasonal vegetables, and a light citrus dressing. Stuffed Mushrooms: For a vegetarian option, filled with herbs and cheese. Main Course Herb-Crusted Chicken Breast: Served with roasted vegetables. Quinoa Stuffed Bell Peppers: A flavorful vegetarian or vegan option. Side Dishes Garlic Butter Roasted Potatoes: Classic and comforting. Steamed Green Beans with Almonds: A simple, healthy side. Dessert Chocolate Lava Cake: A decadent treat to end the meal. Fruit Tart: A lighter, refreshing option. Drinks Wine Pairing: A versatile white wine like Sauvignon Blanc or a light red like Pinot Noir. Mocktail Option: A refreshing citrus mocktail or sparkling water with herbs. Feel free to share more details, and I can help refine the menu further! |
 
 When you encourage the model to suggest clarifications or extra details can help you ask the right questions and achieve better, more accurate answers in fewer interactions.
 
-Specify the desired format for responses
+### Specify the desired format for responses
 When you want the model to generate output in a specific format, you can provide a template or structure in your prompt.
 
 For example, if you're a sports reporting composing a historical article, you can request that the model follow a specific template, which includes headings, bullet points, and data breakdowns.
 
-No template specified	With template specified
-System prompt	You're a helpful AI assistant.	You're a helpful AI assistant for sports reporters.
-User prompt	What happened in the 2018 Soccer World Cup final?	What happened in the 2018 Soccer World Cup final? Format the result to show the match date, location, and the two teams competing. Then the final score, and finally any notable events that occurred during the match.
-Model response	The 2018 FIFA World Cup final took place on July 15, 2018, at the Luzhniki Stadium in Moscow, Russia. France faced Croatia in the match. France emerged victorious with a 4-2 win. The goals for France were scored by Mario Mandzukic (own goal), Antoine Griezmann (penalty), Paul Pogba, and Kylian Mbappé. Croatia's goals were scored by Ivan Perišić and Mandzukic. Kylian Mbappé, at just 19 years old, became the second youngest player to score in a World Cup final, after Pelé. This victory marked France's second World Cup title, their first being in 1998.	Match Date: July 15, 2018
-Location: Luzhniki Stadium, Moscow, Russia
-Teams Competing: France vs. Croatia
-Final Score: France 4, Croatia 2
+|  | No template specified	| With template specified |
+| - | ----------------------- | ----------------------- |
+| System prompt	| You're a helpful AI assistant.	| You're a helpful AI assistant for sports reporters. |
+| User prompt	| What happened in the 2018 Soccer World Cup final?	| What happened in the 2018 Soccer World Cup final? Format the result to show the match date, location, and the two teams competing. Then the final score, and finally any notable events that occurred during the match. |
+| Model response	| The 2018 FIFA World Cup final took place on July 15, 2018, at the Luzhniki Stadium in Moscow, Russia. France faced Croatia in the match. France emerged victorious with a 4-2 win. The goals for France were scored by Mario Mandzukic (own goal), Antoine Griezmann (penalty), Paul Pogba, and Kylian Mbappé. Croatia's goals were scored by Ivan Perišić and Mandzukic. Kylian Mbappé, at just 19 years old, became the second youngest player to score in a World Cup final, after Pelé. This victory marked France's second World Cup title, their first being in 1998. |	Match Date: July 15, 2018 Location: Luzhniki Stadium, Moscow, Russia Teams Competing: France vs. Croatia Final Score: France 4, Croatia 2 Notable Events: First Half: France took an early lead in the 18th minute with an own goal by Mario Mandžukić after a cross from Antoine Griezmann. Croatia equalized in the 28th minute with a header from Ivan Perišić, who had just come on as a substitute. Just before halftime, in the 44th minute, Paul Pogba scored from a free kick to put France back in the lead. Second Half: The game saw a dramatic increase in intensity after the break. In the 68th minute, Kylian Mbappé scored his first World Cup goal, bringing the score to 3-1 in favor of France. Croatia managed to score again in the 69th minute when Mandžukić headed in a cross from Perišić, reducing the deficit to 3-2. Final Moments: In the 81st minute, a controversial penalty was awarded to France after a handball by Croatian defender Dejan Lovren. Griezmann converted the penalty, sealing the victory for France with a 4-2 scoreline. Additional Context: This match was notable for being the youngest ever World Cup final in terms of average age, featuring players like Mbappé and N’Golo Kanté. France’s victory marked their second World Cup title, having previously won in 1998. Croatia reached the final for the first time in their history, finishing as runners-up. |
 
-Notable Events:
-First Half: France took an early lead in the 18th minute with an own goal by Mario Mandžukić after a cross from Antoine Griezmann. Croatia equalized in the 28th minute with a header from Ivan Perišić, who had just come on as a substitute. Just before halftime, in the 44th minute, Paul Pogba scored from a free kick to put France back in the lead.
-Second Half: The game saw a dramatic increase in intensity after the break. In the 68th minute, Kylian Mbappé scored his first World Cup goal, bringing the score to 3-1 in favor of France. Croatia managed to score again in the 69th minute when Mandžukić headed in a cross from Perišić, reducing the deficit to 3-2.
-Final Moments: In the 81st minute, a controversial penalty was awarded to France after a handball by Croatian defender Dejan Lovren. Griezmann converted the penalty, sealing the victory for France with a 4-2 scoreline.
-Additional Context: This match was notable for being the youngest ever World Cup final in terms of average age, featuring players like Mbappé and N’Golo Kanté. France’s victory marked their second World Cup title, having previously won in 1998. Croatia reached the final for the first time in their history, finishing as runners-up.
 You can apply this approach to other scenarios where a specific format is needed, such as generating emails, summaries, proposals, or even code and scripts. Define the format template clearly and provide details on how you want the output structured to get consistent and organized responses.
 
 You can also use a one-shot or few-shots approach by providing one or more examples to help the model identify a desired pattern.
 
-Ask for an explanation of reasoning
+### Ask for an explanation of reasoning
 When you want the model to explain the reasoning behind its answers, you can ask the model to automatically reflect on its rationale and assumptions after providing a response.
 
 For example, if you're working on a mathematical problem, you can ask the model to explain the reasoning behind specific calculations.
 
-No reflection specified	With reflection specified
-System prompt	You're an AI math assistant.	You're an AI math assistant. You always explain your answers.
-User prompt	A right-angled triangle has a hypotenuse side of length 3 cm and an adjacent side length of 2cm.What is the length of the remaining side?	A right-angled triangle has a hypotenuse side of length 3 cm and an adjacent side length of 2cm.What is the length of the remaining side?
-Model response	Approximately 2.24 cm.	We can use the Pythagorean theorem to solve this problem. The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. Mathematically, this can be written as:
-c² = a² + b²
-where c is the length of the hypotenuse, and a and b are the lengths of the other two sides.
-In this problem, we are given the length of the hypotenuse (c = 3 cm) and the length of one of the other sides (a = 2 cm). We need to find the length of the remaining side (b).
-Plugging the given values into the Pythagorean theorem, we get:
-3² = 2² + b²
-9 = 4 + b²
-Now, we can solve for b²:
-b² = 9 - 4
-b² = 5
-Finally, we take the square root of both sides to find the length of the remaining side:
-b = √5 ≈ 2.24 cm
-So, the length of the remaining side is approximately 2.24 cm.
+| | No reflection specified	| With reflection specified |
+| - | ----------------------- | ------------------------- |
+| System prompt	| You're an AI math assistant.	| You're an AI math assistant. You always explain your answers. |
+| User prompt	| A right-angled triangle has a hypotenuse side of length 3 cm and an adjacent side length of 2cm. What is the length of the remaining side?	| A right-angled triangle has a hypotenuse side of length 3 cm and an adjacent side length of 2cm.What is the length of the remaining side? |
+| Model response	| Approximately 2.24 cm.	| We can use the Pythagorean theorem to solve this problem. The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. Mathematically, this can be written as: c² = a² + b² where c is the length of the hypotenuse, and a and b are the lengths of the other two sides. In this problem, we are given the length of the hypotenuse (c = 3 cm) and the length of one of the other sides (a = 2 cm). We need to find the length of the remaining side (b). Plugging the given values into the Pythagorean theorem, we get: 3² = 2² + b² 9 = 4 + b² Now, we can solve for b²: b² = 9 - 4 b² = 5 Finally, we take the square root of both sides to find the length of the remaining side: b = √5 ≈ 2.24 cm So, the length of the remaining side is approximately 2.24 cm. |
+
 You can apply this approach when you want explanations in data analysis, marketing strategy, or technical troubleshooting. When you ask the model to define its reasoning, you use a technique called chain-of-thought to make it think step by step.
 
-Add context
+### Add context
 When you want the model to focus on specific topics, you can specify the context to consider. You can also tell the model to ignore irrelevant information.
 
 For example, if you're planning a trip, you can provide the model with more context to help improve the relevance of its response.
