@@ -241,16 +241,18 @@ This section discusses options and considerations for model optimization that yo
 
 Prompt engineering can be an effective way to optimize model responses, but in some cases it may not provide sufficient context or guidance to always meet your exact needs. As a developer, you can consider the following additional optimization strategies to improve the relevance of your generative AI application's responses:
 
-Retrieval Augmented Generation (RAG): A technique that involves using a data source to provide grounding context to prompts. RAG can be a useful approach when you need the model to answer questions based on a specific knowledge domain or when you need the model to consider information related to events that occurred after the training data on which the model is based.
-Fine-tuning: A technique that involves extending the training of a foundation model by providing example prompts and responses that reflect the desired output format and style.
+- Retrieval Augmented Generation (RAG): A technique that involves using a data source to provide grounding context to prompts. RAG can be a useful approach when you need the model to answer questions based on a specific knowledge domain or when you need the model to consider information related to events that occurred after the training data on which the model is based.
+- Fine-tuning: A technique that involves extending the training of a foundation model by providing example prompts and responses that reflect the desired output format and style.
+
 Both of these approaches involve additional cost, complexity, and maintainability challenges, so as a general rule it's best to start your optimization efforts through prompt engineering, and then consider additional strategies if necessary.
 
 The strategy you should choose as a developer depends on your requirements:
 
 Diagram showing the various strategies to optimize the model's performance.
 
-Optimize for context: When the model lacks contextual knowledge and you want to maximize responses accuracy.
-Optimize the model: When you want to improve the response format, style, or speech by maximizing consistency of behavior.
+- Optimize for context: When the model lacks contextual knowledge and you want to maximize responses accuracy.
+- Optimize the model: When you want to improve the response format, style, or speech by maximizing consistency of behavior.
+
 To optimize for context, you can apply a Retrieval Augmented Generation (RAG) pattern. With RAG, you ground your data by first retrieving context from a data source before generating a response. For example, you want employees to ask questions about expense claim processes and limits based on your own corporation's expenses policy documentation.
 
 When you want the model to respond in a specific style or format, you can instruct the model to do so by adding guidelines in the system message. When you notice the model's behavior isn't consistent, you can further enforce consistency in behavior by fine-tuning a model. With fine-tuning, you train a base language model on a dataset of example prompts and responses before integrating it in your application, with the result that the fine-tuned model will produce responses that are consistent with the examples in the fine-tuning training dataset.
